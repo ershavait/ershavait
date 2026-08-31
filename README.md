@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Shavait 👋
 
-<!--
-**ershavait/ershavait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer focused on building full-stack applications and real-world products — currently exploring AI, Machine Learning, and Data Science along the way.
 
-Here are some ideas to get you started:
+B.Tech Civil Engineering student at IIT Indore, and a member of the Cynaptics AI/ML Club.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+
+Connect
+📧 Email: (add your email)
+💼 LinkedIn: (add your link)
+📍 Based in Indore / Jammu & Kashmir
