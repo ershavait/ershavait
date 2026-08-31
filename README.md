@@ -16,6 +16,6 @@ B.Tech Civil Engineering student at IIT Indore, and a member of the Cynaptics AI
 
 ## Connect
 
-- 📧 Email: ershavait#gmail.com
+- 📧 Email: ershavait@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shavait-pandita-2ab4b92a5/
 - 📍 Based in Indore / Jammu & Kashmir
