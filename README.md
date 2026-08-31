@@ -2,7 +2,7 @@
 
 Web developer focused on building full-stack applications and real-world products — currently exploring AI, Machine Learning, and Data Science along the way.
 
-B.Tech Civil Engineering student at IIT Indore, and a member of the Cynaptics AI/ML Club.
+B.Tech Civil Engineering student at IIT Indore, and a member of the Programming Club @ IIT Indore
 
 ## Tech Stack
 
