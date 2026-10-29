@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">Hello, I'm Shavait Pandita</title>
+<desc id="desc">A midnight and mint introduction with a floating robot companion. AI, full-stack, and curiosity.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c171e"/><stop offset="1" stop-color="#112d30"/></linearGradient>
+ <linearGradient id="shell" x2="0.8" y2="1"><stop stop-color="#c0ffe7"/><stop offset="1" stop-color="#4dcba7"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#79e8c2" stroke-opacity=".055"/></pattern>
+ <style>
+ .float{animation:float 4s ease-in-out infinite}.eye{animation:blink 5s infinite;transform-box:fill-box;transform-origin:center}.signal{animation:pulse 2s ease-in-out infinite}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+ @keyframes blink{0%,43%,47%,100%{transform:scaleY(1)}45%{transform:scaleY(.12)}}
+ @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+ @media(prefers-reduced-motion:reduce){.float,.eye,.signal{animation:none}}
+ </style>
+</defs>
+<rect x="1" y="1" width="958" height="338" rx="24" fill="url(#bg)" stroke="#284443"/>
+<rect x="2" y="2" width="956" height="336" rx="23" fill="url(#grid)"/>
+<circle cx="788" cy="161" r="111" fill="#79e8c2" opacity=".035"/>
+<circle cx="788" cy="161" r="91" fill="none" stroke="#79e8c2" stroke-opacity=".13" stroke-dasharray="3 9"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="48" y="59" fill="#79e8c2" font-size="12" letter-spacing="3">ERSHAVAIT / THE BUILD LOG</text>
+ <text x="48" y="125" fill="#a7bbb9" font-size="23">Hey there, I'm</text>
+ <text x="45" y="185" fill="#effff9" font-size="52" font-weight="700" letter-spacing="-2">Shavait Pandita<tspan fill="#79e8c2">.</tspan></text>
+ <text x="48" y="227" fill="#bdcecc" font-size="18">AI, full-stack, and a little curiosity.</text>
+ <rect x="48" y="270" width="286" height="30" rx="15" fill="#79e8c2" fill-opacity=".09" stroke="#79e8c2" stroke-opacity=".2"/>
+ <circle cx="65" cy="285" r="4" fill="#79e8c2" class="signal"/>
+ <text x="79" y="290" fill="#9ee7d0" font-size="12" letter-spacing="1">IIT INDORE · CLASS OF 2029</text>
+</g>
+<ellipse cx="788" cy="280" rx="65" ry="9" fill="#000" opacity=".18"/>
+<g class="float">
+ <path d="M788 106V88" stroke="#8af1ce" stroke-width="6" stroke-linecap="round"/>
+ <circle cx="788" cy="82" r="8" fill="#79e8c2" class="signal"/>
+ <rect x="724" y="112" width="128" height="100" rx="32" fill="url(#shell)"/>
+ <rect x="736" y="128" width="104" height="64" rx="22" fill="#0b252b"/>
+ <rect x="755" y="147" width="13" height="21" rx="6.5" fill="#a9ffdf" class="eye"/>
+ <rect x="808" y="147" width="13" height="21" rx="6.5" fill="#a9ffdf" class="eye"/>
+ <path d="M778 174q10 8 20 0" fill="none" stroke="#79e8c2" stroke-width="3" stroke-linecap="round"/>
+ <rect x="751" y="217" width="74" height="39" rx="17" fill="url(#shell)"/>
+ <path d="M769 237h12m14 0h12" stroke="#174a47" stroke-width="4" stroke-linecap="round"/>
+ <path d="M716 171l-15 13m158-14 14-18" stroke="#79e8c2" stroke-width="12" stroke-linecap="round"/>
+ <circle cx="877" cy="144" r="10" fill="#bdffe6"/>
+</g>
+<g fill="#a8f7db"><path d="M694 85v12m-6-6h12" opacity=".6"/><path d="M883 236v14m-7-7h14" opacity=".7"/><circle cx="681" cy="231" r="3" opacity=".5"/><circle cx="889" cy="93" r="3" opacity=".6"/></g>
+</svg>
