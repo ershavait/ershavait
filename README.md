@@ -23,36 +23,6 @@ From training models to building the interfaces around them — I like connectin
 - 🔬 Interested in how intelligent systems work, from transformer internals to practical applications.
 - 🤝 Always up for a thoughtful conversation, an interesting problem, or a project worth building together.
 
-### Things I've been building
-
-| Project | Explore |
-| :--- | :--- |
-| **FlashGuard** | [Open the project →](https://github.com/ershavait/flashguard) |
-| **Mini GPT** | [Open the project →](https://github.com/ershavait/cynaptics-mini-gpt) |
-| **InterviewAI** | [Open the project →](https://github.com/ershavait/InterviewAI) |
-| **English–Hindi Transformer** | [Open the project →](https://github.com/ershavait/en-hi-translator-transformer) |
-
-### My toolkit
-
-**Languages** &nbsp; Python · C++ · JavaScript · TypeScript · SQL  
-**AI / ML** &nbsp; PyTorch · Scikit-learn · XGBoost · Transformers  
-**GenAI** &nbsp; LLMs · RAG · LangGraph · Vector databases  
-**Web** &nbsp; React · Node.js · Express · MongoDB · PostgreSQL  
-**Tools** &nbsp; Git · Docker · Kafka · Redis · Pathway
-
-<details>
-<summary><b>Beyond the code</b></summary>
-
-- Marketing Associate, **Code Rhythm 2027**.
-- Previously Web Development Associate, **E-Summit 2026**.
-- **JEE Advanced:** AIR 9560 · **IAT 2025:** AIR 1389.
-
-</details>
-
-### Small steps, steady commits
-
-<img src="https://raw.githubusercontent.com/ershavait/ershavait/main/contrib-heatmap.svg" width="100%" alt="Shavait's contribution heatmap, maintained by the existing profile repository workflow" />
-
 ---
 
 <div align="center">
