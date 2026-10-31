@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="835" height="195" viewBox="0 0 835 195">
 <style>@keyframes in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}.c{animation:in .5s ease both}</style>
-<text x="20" y="22" font-family="Consolas, Menlo, monospace" font-size="13" fill="#c9d1d9">202 contributions in the last year</text>
+<text x="20" y="22" font-family="Consolas, Menlo, monospace" font-size="13" fill="#c9d1d9">200 contributions in the last year</text>
 <rect class="c" x="20" y="40" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.00s"/>
 <rect class="c" x="20" y="55" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.02s"/>
 <rect class="c" x="20" y="70" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.04s"/>
@@ -294,7 +294,7 @@
 <rect class="c" x="635" y="85" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.88s"/>
 <rect class="c" x="635" y="100" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:0.90s"/>
 <rect class="c" x="635" y="115" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.92s"/>
-<rect class="c" x="635" y="130" width="12" height="12" rx="2" fill="#006d32" style="animation-delay:0.94s"/>
+<rect class="c" x="635" y="130" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:0.94s"/>
 <rect class="c" x="650" y="40" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:0.84s"/>
 <rect class="c" x="650" y="55" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.86s"/>
 <rect class="c" x="650" y="70" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.88s"/>
@@ -307,7 +307,7 @@
 <rect class="c" x="665" y="70" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.90s"/>
 <rect class="c" x="665" y="85" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.92s"/>
 <rect class="c" x="665" y="100" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.94s"/>
-<rect class="c" x="665" y="115" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:0.96s"/>
+<rect class="c" x="665" y="115" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:0.96s"/>
 <rect class="c" x="665" y="130" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:0.98s"/>
 <rect class="c" x="680" y="40" width="12" height="12" rx="2" fill="#26a641" style="animation-delay:0.88s"/>
 <rect class="c" x="680" y="55" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:0.90s"/>
@@ -370,7 +370,8 @@
 <rect class="c" x="800" y="70" width="12" height="12" rx="2" fill="#006d32" style="animation-delay:1.08s"/>
 <rect class="c" x="800" y="85" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:1.10s"/>
 <rect class="c" x="800" y="100" width="12" height="12" rx="2" fill="#26a641" style="animation-delay:1.12s"/>
-<rect class="c" x="800" y="115" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:1.14s"/>
+<rect class="c" x="800" y="115" width="12" height="12" rx="2" fill="#0e4429" style="animation-delay:1.14s"/>
+<rect class="c" x="800" y="130" width="12" height="12" rx="2" fill="#161b22" style="animation-delay:1.16s"/>
 <text x="665" y="183" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8b949e">Less</text>
 <rect x="699" y="173" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="713" y="173" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -379,5 +380,5 @@
 <rect x="755" y="173" width="11" height="11" rx="2" fill="#39d353"/>
 <rect x="769" y="173" width="11" height="11" rx="2" fill="#69f0a0"/>
 <text x="787" y="183" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8b949e">More</text>
-<text x="20" y="187" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8b949e">current streak 0 · longest 18</text>
+<text x="20" y="187" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8b949e">current streak 0 · longest 19</text>
 </svg>
